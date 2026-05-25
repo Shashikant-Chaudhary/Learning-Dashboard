@@ -87,7 +87,7 @@ function DesktopSidebar() {
             </div>
             <div className="flex flex-col min-w-0">
               <span className="text-xs font-medium text-zinc-200 truncate">
-                Alex Johnson
+                Shashikant Chaudhary
               </span>
               <span className="text-[10px] text-zinc-500 truncate">
                 Pro Plan
