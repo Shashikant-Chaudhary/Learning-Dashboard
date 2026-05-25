@@ -83,7 +83,7 @@ function DesktopSidebar() {
             <div className="w-8 h-8 rounded-full bg-gradient-to-br
               from-violet-500 to-indigo-600 flex items-center justify-center
               text-xs font-bold text-white shrink-0">
-              AJ
+              SC
             </div>
             <div className="flex flex-col min-w-0">
               <span className="text-xs font-medium text-zinc-200 truncate">
